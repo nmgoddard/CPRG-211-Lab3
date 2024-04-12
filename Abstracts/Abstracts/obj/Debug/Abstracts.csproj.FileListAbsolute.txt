@@ -1,0 +1,7 @@
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab3\Abstracts\Abstracts\bin\Debug\Abstracts.exe.config
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab3\Abstracts\Abstracts\bin\Debug\Abstracts.exe
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab3\Abstracts\Abstracts\bin\Debug\Abstracts.pdb
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab3\Abstracts\Abstracts\obj\Debug\Abstracts.csproj.AssemblyReference.cache
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab3\Abstracts\Abstracts\obj\Debug\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab3\Abstracts\Abstracts\obj\Debug\Abstracts.exe
+C:\Users\tmgod\Documents\GitHub\CPRG-211-Lab3\Abstracts\Abstracts\obj\Debug\Abstracts.pdb
